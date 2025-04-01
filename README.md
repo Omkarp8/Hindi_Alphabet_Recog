@@ -1,11 +1,12 @@
-Hindi Character Recognition
+# Hindi Character Recognition
 
-Project Overview
+# Project Overview
 
-This project focuses on recognizing Hindi characters using deep learning techniques. The model is trained on a dataset of Hindi alphabets and can predict characters from handwritten inputs.
+<h3>This project focuses on recognizing Hindi characters using deep learning techniques. The model is trained on a dataset of Hindi alphabets and can predict characters from handwritten inputs.</h3>
 
-Features
-
+# Features
+<ul>
+<li>
 Preprocessing and augmentation of Hindi character dataset.
 
 Deep learning model implemented using TensorFlow/Keras.
@@ -13,9 +14,11 @@ Deep learning model implemented using TensorFlow/Keras.
 Training and validation of the model.
 
 Evaluation and prediction on test images.
+</li>
+</ul>
 
 
-File Structure
+# File Structure
 
 .
 ├── Hindi_Alphabet_Recog.ipynb   # Jupyter Notebook for model training and evaluation
@@ -23,7 +26,7 @@ File Structure
 ├── dataset/                     # Directory containing the dataset
 └── .ipynb_checkpoints/          # Auto-generated Jupyter Notebook checkpoints
 
-Setup Instructions
+# Setup Instructions
 
 1. Clone this repository:
 
@@ -41,7 +44,7 @@ jupyter notebook Hindi_Alphabet_Recog.ipynb
 
 
 
-Usage
+# Usage
 
 Load and preprocess the dataset.
 
@@ -56,9 +59,6 @@ Contributing
 
 Feel free to submit pull requests or raise issues to improve this project.
 
-License
-
-This project is licensed under the MIT License.
 
 
 
